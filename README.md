@@ -13,4 +13,8 @@ Other useful links:
 * Shell commands in IPython kernel: https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html
 * _Magics_ in IPython: https://ipython.readthedocs.io/en/stable/interactive/magics.html
 
+Some useful Jupyter Shortcuts:
+
+* https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw/
+
 
