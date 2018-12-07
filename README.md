@@ -1,4 +1,4 @@
-# Linux shell Jupyer Notebooks
+# Linux shell Jupyter Notebooks
 A set of Linux shell exercises explained by using Jupyter Notebooks
 
 # Jupyter Notebooks installation
