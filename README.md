@@ -1,5 +1,5 @@
 # Linux shell Jupyter Notebooks
-A set of Linux shell exercises explained by using Jupyter Notebooks
+A set of Linux shell exercises explained by using Jupyter Notebooks. They are base on exercises proposed at 12th Edition of Data Science Master by [KSchool](https://kschool.com/) .
 
 # Jupyter Notebooks installation
 
