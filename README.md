@@ -21,4 +21,11 @@ Some useful Jupyter Shortcuts:
 
 * https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw/
 
+<div style="text-align:right">
+Juan Luis García López (@huanlui)
+<a href="https://github.com/huanlui" class="fa fa-github"> Github </a>
+<a href="https://twitter.com/huanlui" class="fa fa-twitter"> Twitter </a>
+<a href="https://www.linkedin.com/in/juan-luis-garcía-lópez-99057138" class="fa fa-linkedin"> Linkedin </a>
+<div>
+
 
