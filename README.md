@@ -1,5 +1,9 @@
 # Linux shell Jupyter Notebooks
-A set of Linux shell exercises explained by using Jupyter Notebooks. They are base on exercises proposed at 12th Edition of Data Science Master by [KSchool](https://kschool.com/) .
+A set of Linux shell exercises explained by using Jupyter Notebooks. They are based on exercises proposed at 12th Edition of Data Science Master by [KSchool](https://kschool.com/) .
+
+The notebooks (extension .ipynb) can be opened directly from Github. Please, it you experiment some problem opening it, try doing it from an incognito window.
+
+If you want to edit and play with the notebooks, I recommend you to follow de installation notes below. 
 
 # Jupyter Notebooks installation
 
